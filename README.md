@@ -16,7 +16,7 @@ Built With
 
 Installation
    1.  Clone the Repository:
-       git clone https://github.com/larissioana/product-cart.git
+       git clone git@github.com:larissioana/product-cart.git
        cd product-cart
    2.  Install Dependencies:
        npm install
