@@ -1,0 +1,23 @@
+.care-wrapper-title
+{
+    display: flex;
+    gap: .3rem;
+    margin-top: 2rem;
+}
+.care-title
+{
+    font-size: clamp(.9rem, 2vw, 1rem);
+    cursor: pointer;
+}
+
+.care-container img 
+{
+    vertical-align: middle;
+    margin-top: .2rem;
+}
+
+.care-container
+{
+    display: flex;
+    gap: 1rem;
+}
